@@ -1,1 +1,1 @@
-# placeholder-meetups-repo
+# meetups-repo
